@@ -97,7 +97,7 @@
 
           <div class="home__info">
             <div>
-              <span class="home__info-title">Best Places to visit</span>
+              <span class="home__info-title">Our Special Packages</span>
               <a
                 href="5best.html"
                 class="button button--flex button--link home__info-button"
@@ -107,7 +107,7 @@
             </div>
 
             <div class="home__info-overlay">
-              <img src="assets/img/5d5e9bb0f0a68d4ad4f20475.jpeg" alt="" class="home__info-img" />
+              <img src="assets/img/Jungle-Walk01-min-min.jpg" alt="" class="home__info-img" />
             </div>
           </div>
         </div>
@@ -488,7 +488,7 @@
             &#169; 2022 Anjan. All rigths reserved.
           </p>
           <div class="footer__terms">
-            <a href="#" class="footer__terms-link">Terms & Agreements</a>
+            <a href="term.html" class="footer__terms-link">Terms & Agreements</a>
             <a href="#" class="footer__terms-link">Privacy Policy</a>
           </div>
         </div>
